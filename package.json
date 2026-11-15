@@ -1,0 +1,28 @@
+{
+  "name": "@b2apps/eu-vat-vies-mcp",
+  "version": "1.0.0",
+  "description": "Deterministic EU VAT format, ISO/national check-digit verifier, intra-EU B2B reverse-charge rules (Article 196), and EN 16931 invoice compliance audit MCP server.",
+  "type": "module",
+  "main": "src/index.mjs",
+  "bin": {
+    "eu-vat-vies-mcp": "src/index.mjs"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "eu-vat",
+    "vies",
+    "reverse-charge",
+    "invoice-compliance",
+    "tax-automation"
+  ],
+  "author": "B2 Apps (b2apps.dev@gmail.com)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
