@@ -6,6 +6,14 @@ Built for AI coding and finance agents in **Claude Desktop, Cursor, Windsurf, VS
 
 ---
 
+## Free Online Tool / Pro Suite
+
+- 🚀 **Free Online Web Tool**: Test live EU VAT number validation and reverse-charge invoicing immediately in your browser at [https://b2appsdev-del.github.io/eu-vat-invoice-checker/](https://b2appsdev-del.github.io/eu-vat-invoice-checker/).
+- 💼 **EU VAT & Invoicing Pro Toolkit ($0+ PWYW / $19 Pro)**: Full cross-border VAT compliance templates, Notion & Excel invoicing system, 27 EU member rate tables, and VIES audit log on [Gumroad](https://devbloom12.gumroad.com/l/umkclc?utm_source=github&utm_medium=readme).
+- 🌐 **All B2 Apps Tools & Directory**: Explore our complete suite of EU dev, compliance, and investor tools at [https://b2appsdev-del.github.io/](https://b2appsdev-del.github.io/).
+
+---
+
 ## Why Use This MCP Server?
 
 LLMs frequently hallucinate national VAT check-digit rules, confuse Greece's `EL` prefix with ISO `GR`, or apply domestic VAT to cross-border intra-EU B2B supplies where **Article 196 Reverse Charge** is mandatory. `@b2apps/eu-vat-vies-mcp` gives your agent a **100% deterministic calculation and validation engine**:
