@@ -11,6 +11,7 @@ Built for AI coding and finance agents in **Claude Desktop, Cursor, Windsurf, VS
 - 🚀 **Free Online Web Tool**: Test live EU VAT number validation and reverse-charge invoicing immediately in your browser at [https://b2appsdev-del.github.io/eu-vat-invoice-checker/](https://b2appsdev-del.github.io/eu-vat-invoice-checker/).
 - 💼 **EU VAT & Invoicing Pro Toolkit ($0+ PWYW / $19 Pro)**: Full cross-border VAT compliance templates, Notion & Excel invoicing system, 27 EU member rate tables, and VIES audit log on [Gumroad](https://devbloom12.gumroad.com/l/umkclc?utm_source=github&utm_medium=readme).
 - 🌐 **All B2 Apps Tools & Directory**: Explore our complete suite of EU dev, compliance, and investor tools at [https://b2appsdev-del.github.io/](https://b2appsdev-del.github.io/).
+- 🧭 **All free samples and step-by-step guides (mobile-friendly):** https://b2appsdev-del.github.io/start/
 
 ---
 
